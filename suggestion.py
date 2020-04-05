@@ -2,7 +2,7 @@ import pandas as pd
 import random
 
 #CSV READ & GENRE-TITLE
-data = pd.read_csv("data.csv")
+data = pd.read_csv("data.csv") # https://www.kaggle.com/stefanoleone992/imdb-extensive-dataset/data#IMDb%20movies.csv
 
 #CHOICE INPUT
 choice = input('Please enter a word = ')
